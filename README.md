@@ -1,4 +1,4 @@
-# [Board-Infintiy-Task](https://codexweb.netlify.app)
+# [Board-Infintiy-Task](https://boardinfinityapi.herokuapp.com/)
 
 Task Assigned By Board Infinity 
 ![](/projectSS.png)
